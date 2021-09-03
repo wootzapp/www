@@ -1,37 +1,10 @@
-## Welcome to GitHub Pages
+## Welcome to WootzApp
 
-You can use the [editor on GitHub](https://github.com/wootzapp/www/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+The UX for Crypto is broken. We are fixing it..right at in your pocket.
+Wootz is a browser for the crypto web. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Why Wootz
 
-### Markdown
+Wootz steel originated in South India, in present day Kodumanal, Erode, Tamil Nadu. The word "wootz" appears to have originated as a mistranscription of *wook*  the Tamil language root word for the alloy is *urukku*.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/wootzapp/www/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Trade spread the technology to the city of Damascus, where an industry developed for making weapons of this steel..and began to be known as Damascus steel. Wootz is the strongest, sharpest and best steel in the world. Definitely better than alloy or Chrome steel ;)

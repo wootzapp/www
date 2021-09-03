@@ -1,5 +1,7 @@
 ## Welcome to WootzApp
 
+![Screenshot](/image/logo.png)
+
 The UX for Crypto is broken. We are fixing it..right at in your pocket.
 Wootz is a browser for the crypto web. 
 

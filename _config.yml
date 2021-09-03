@@ -1,6 +1,7 @@
 theme: jekyll-theme-hacker
 title: WootzApp
 logo: /image/logo.png
+description: "WootzApp - the browser for the crypto web."
 
 # Build settings
 markdown: kramdown

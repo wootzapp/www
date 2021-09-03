@@ -7,4 +7,8 @@ Wootz is a browser for the crypto web.
 
 Wootz steel originated in South India, in present day Kodumanal, Erode, Tamil Nadu. The word "wootz" appears to have originated as a mistranscription of *wook*  the Tamil language root word for the alloy is *urukku*.
 
-Trade spread the technology to the city of Damascus, where an industry developed for making weapons of this steel..and began to be known as Damascus steel. Wootz is the strongest, sharpest and best steel in the world. Definitely better than alloy or Chrome steel ;)
+Trade spread the technology to the city of Damascus, where an industry developed for making weapons of this steel..and began to be known as Damascus steel. 
+
+After the First War of Indian Independence of 1857 against the British East India Company, the British government frowned upon weapon-making by Indians. This led to the stoppage of the production of Wootz. And the secret was lost forever.
+
+Wootz is the strongest, sharpest and best steel in the world. Definitely better than alloy or Chrome steel ;)

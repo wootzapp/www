@@ -4,12 +4,12 @@ WootzApp built this game as an Ad Supported app. This SERVICE is provided by Woo
 
 This page is used to inform visitors regarding this policies with the collection, use, and disclosure of Personal Information if anyone decided to use this Service.
 
-If you choose to use this Service, then you agree to the collection and use of information in relation to this policy. The Personal Information that I collect is used for providing and improving the Service. I will not use or share your information with anyone except as described in this Privacy Policy.
+If you choose to use this Service, then you agree to the collection and use of information in relation to this policy. The Personal Information that WootzApp collects is used for providing and improving the Service. WootzApp will not use or share your information with anyone except as described in this Privacy Policy.
 
 
 Information Collection and Use
 
-For a better experience, while using our Service, I may require you to provide us with certain personally identifiable information.
+For a better experience, while using our Service, WootzApp may require you to provide us with certain personally identifiable information.
 
 
 Cookies
@@ -27,7 +27,7 @@ To facilitate our Service;
 To provide the Service on our behalf;
 To perform Service-related services; or
 To assist us in analyzing how our Service is used.
-I want to inform users of this Service that these third parties have access to your Personal Information. The reason is to perform the tasks assigned to them on our behalf. However, they are obligated not to disclose or use the information for any other purpose.
+We want to inform users of this Service that these third parties may have access to your Personal Information. The reason is to perform the tasks assigned to them on our behalf. However, they are obligated not to disclose or use the information for any other purpose.
 
 
 Privacy policy advertising partners
@@ -633,7 +633,7 @@ https://zms.zalando.com/#
 
 Links to Other Sites
 
-This Service may contain links to other sites. If you click on a third-party link, you will be directed to that site. Note that these external sites are not operated by me. Therefore, I strongly advise you to review the Privacy Policy of these websites. I have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.
+This Service may contain links to other sites. If you click on a third-party link, you will be directed to that site. Note that these external sites are not operated by WootzApp. Therefore, we strongly advise you to review the Privacy Policy of these websites. WootzApp has no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.
 
 
 Changes to This Privacy Policy
@@ -644,4 +644,4 @@ We may update our Privacy Policy from time to time. Thus, you are advised to rev
 
 Contact Us
 
-If you have any questions or suggestions about this Privacy Policy, do not hesitate to contact me at sss [a@] wootzapp.com
+If you have any questions or suggestions about this Privacy Policy, do not hesitate to contact WootzApp at sss [a@] wootzapp.com

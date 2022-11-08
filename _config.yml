@@ -4,4 +4,5 @@ logo: /image/logo2.png
 description: "WootzApp - the browser for the crypto web."
 
 # Build settings
+show_downloads: true
 markdown: kramdown

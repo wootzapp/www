@@ -1,15 +1,26 @@
-## Welcome to WootzApp
+## WootzApp - A New Mobile Browser to Earn Passive Income using GenAI.
 
 
 <br>
 <img src="/image/logo2.png"  width="400">
 <br>
 
-The UX for Crypto is broken. We are fixing it..right  in your pocket.
-Wootz is a mobile browser for the crypto web. IPhone and Android. 
+[Winner of the Solana Colosseum Renaissance Global Hackathon](https://solana.com/news/solana-renaissance-winners)
+
+
+
+### ENTER WOOTZAPP
+About 200 Billion USD of the Trillion dollar Generative AI opportunity is around Training data + Infrastructure.
+
+But the GenAI war is really a war for data. And the players are [unscrupulous  & unethical when it comes to data.](https://www.nytimes.com/2024/04/06/technology/tech-giants-harvest-data-artificial-intelligence.htm)
+
+The EU Open Digital Markets regulation has FORCED apple App Store to [allow alternative browsers for the first time in 30 years.](https://www.theverge.com/2024/3/5/24090161/ios-17-4-update-released-dma-eu-third-party-app-store-nfc-payments).
+
+There are already startups that are successfully building GenAI data marketplaces. Each of the marketplaces work through browser plugins and extensions that conflict with each other. Users have no way to use multiple marketplaces at once. That is a limitation of the browser.
+
+we believe that a web browser with  depin primitives is the best way for users to use and contribute to depin economy. Because a web browser is anyway your highest used app in a day..especially on the mobile.
 
 ### Why Wootz
-
 Wootz steel originated in South India - in present day Kodumanal, Tamil Nadu. The word "*wootz*" appears to have originated as a mistranscription of *wook*  - from the Tamil language root word *urukku*.
 
 Trade spread the technology to the city of Damascus, where an industry developed for making weapons of this steel..and began to be known as Damascus steel. 

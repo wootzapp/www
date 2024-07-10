@@ -1,11 +1,11 @@
-## WootzApp - A New Mobile Browser to Earn Passive Income using GenAI.
+## WootzApp - Winner of the Solana Colosseum Renaissance Global Hackathon.
 
 
 <br>
 <img src="/image/logo2.png"  width="400">
 <br>
 
-[Winner of the Solana Colosseum Renaissance Global Hackathon](https://solana.com/news/solana-renaissance-winners)
+A New Mobile Browser to Earn Passive Income using GenAI - Human Data Contributor Network for Depin Partners. [Winner of the Solana Colosseum Renaissance Global Hackathon](https://solana.com/news/solana-renaissance-winners)
 
 
 

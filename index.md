@@ -21,6 +21,6 @@ There are already startups that are successfully building GenAI data marketplace
 we believe that a web browser with  depin primitives is the best way for users to use and contribute to depin economy. Because a web browser is anyway your highest used app in a day..especially on the mobile.
 
 ### Why Wootz
-Wootz steel originated in South India - in present day Kodumanal, Tamil Nadu. The word "*wootz*" appears to have originated as a mistranscription of *wook*  - from the Tamil language root word *urukku*.
+Wootz steel originated in South India - in present day Kodumanal, Tamil Nadu. It later spread around the world as "Damascus Steel", before the pre-independence colonial rulers of India banned making wootz steel.
 
 Wootz is the strongest, sharpest and best steel in the world. Definitely better than Chrome ;)

@@ -18,7 +18,7 @@ The EU Open Digital Markets regulation has FORCED apple App Store to [allow alte
 
 There are already startups that are successfully building GenAI data marketplaces. Each of the marketplaces work through browser plugins and extensions that conflict with each other. Users have no way to use multiple marketplaces at once. That is a limitation of the browser.
 
-we believe that a web browser with  depin primitives is the best way for users to use and contribute to depin economy. Because a web browser is anyway your highest used app in a day..especially on the mobile.
+we believe that a web browser with data/depin primitives is the best way for users to use and contribute to the AI economy. Because a web browser is anyway your highest used app in a day..especially on the mobile.
 
 ### Why Wootz
 Wootz steel originated in South India - in present day Kodumanal, Tamil Nadu. It later spread around the world as "Damascus Steel", before the pre-independence colonial rulers of India banned making wootz steel.

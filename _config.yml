@@ -1,7 +1,7 @@
 theme: jekyll-theme-hacker
 title: WootzApp
 logo: /image/logo2.png
-description: "WootzApp - the browser for the crypto web."
+description: "WootzApp - We fork Chromium to build a browser which nudges users to complete tasks for AI, and get paid for it."
 
 # Build settings
 show_downloads: true
